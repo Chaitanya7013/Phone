@@ -1,0 +1,7 @@
+Flipkart\resource\JobResource.class
+Flipkart\dao\JobDao.class
+Flipkart\JAXRSConfiguration.class
+Flipkart\entity\Job.class
+Flipkart\business\JobBusiness.class
+Flipkart\dao\Dao.class
+Flipkart\entity\Entity.class
